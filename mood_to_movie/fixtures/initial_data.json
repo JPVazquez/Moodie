@@ -1,0 +1,287 @@
+[
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 0,
+        "fields": {
+            "anger": 0.8,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.0,
+            "confident": 0.75,
+            "tentative": 0.55,
+            "genre_name": "Action",
+            "genre_id": 28
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 1,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.6,
+            "joy": 0.6,
+            "sadness": 0.0,
+            "analytical": 0.0,
+            "confident": 0.6,
+            "tentative": 0.0,
+            "genre_name": "Adventure",
+            "genre_id": 12
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 2,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.7,
+            "joy": 0.7,
+            "sadness": 0.8,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Animation",
+            "genre_id": 16
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 3,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.65,
+            "joy": 0.0,
+            "sadness": 0.8,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.75,
+            "genre_name": "Comedy",
+            "genre_id": 35
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 4,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.75,
+            "confident": 0.65,
+            "tentative": 0.6,
+            "genre_name": "Crime",
+            "genre_id": 80
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 5,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.85,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Documentary",
+            "genre_id": 99
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 6,
+        "fields": {
+            "anger": 0.68,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.65,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Drama",
+            "genre_id": 18
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 7,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.75,
+            "joy": 0.65,
+            "sadness": 0.7,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Family",
+            "genre_id": 10751
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 8,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.65,
+            "sadness": 0.0,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.8,
+            "genre_name": "Fantasy",
+            "genre_id": 14
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 9,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.9,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "History",
+            "genre_id": 36
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 10,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.0,
+            "confident": 0.8,
+            "tentative": 0.6,
+            "genre_name": "Horror",
+            "genre_id": 27
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 11,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.75,
+            "sadness": 0.75,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Music",
+            "genre_id": 10402
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 12,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.55,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.7,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "Mystery",
+            "genre_id": 9648
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 13,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.6,
+            "sadness": 0.6,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.5,
+            "genre_name": "Romance",
+            "genre_id": 10749
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 14,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.7,
+            "confident": 0.6,
+            "tentative": 0.0,
+            "genre_name": "Science Fiction",
+            "genre_id": 878
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 15,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.8,
+            "sadness": 0.8,
+            "analytical": 0.0,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "TV Movie",
+            "genre_id": 10770
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 16,
+        "fields": {
+            "anger": 0.0,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.7,
+            "confident": 0.6,
+            "tentative": 0.0,
+            "genre_name": "Thriller",
+            "genre_id": 53
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 17,
+        "fields": {
+            "anger": 0.7,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.8,
+            "confident": 0.0,
+            "tentative": 0.0,
+            "genre_name": "War",
+            "genre_id": 10752
+        }
+    },
+    {
+        "model": "mood_to_movie.MoodToMovie",
+        "pk": 18,
+        "fields": {
+            "anger": 0.65,
+            "fear": 0.0,
+            "joy": 0.0,
+            "sadness": 0.0,
+            "analytical": 0.0,
+            "confident": 0.8,
+            "tentative": 0.55,
+            "genre_name": "Western",
+            "genre_id": 37
+        }
+    }
+]
