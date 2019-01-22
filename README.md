@@ -18,4 +18,4 @@ Three APIs were used in order to complete this project:
 ```
 
 ## Languages/Frameworks used in the project
-Our application was built using the Django Web Framework with two main applications corresponding to the frontend (named frontend) and another to the backend (named mood_to_movie). Within the backend, Python was used for all API calls as well as a variety of python packages to both pass information from the frontend as well as grab information from the frontend. For the frontend, we used javascript with the React framework. 
+Our application was built using the Django Web Framework with two main applications corresponding to the frontend and backend. Contained here are the sections of the project written, debugged, and deployed by me; this consists of the total backend for the application. Within the backend, Python was used for all API calls as well as a variety of python packages to both pass information from the frontend as well as grab information from the frontend. For the frontend, javascript with the React framework was used. 
